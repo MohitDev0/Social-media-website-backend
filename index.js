@@ -15,7 +15,7 @@ const path = require("path");
 const cors = require("cors");
 
 const corsOptions = {
-  origin: 'https://nscf-ecommerce.vercel.app', 
+  origin: 'https://social-media-website-frontend.vercel.app', 
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true, 
   optionsSuccessStatus: 204, 
